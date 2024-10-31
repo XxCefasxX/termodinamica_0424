@@ -1,6 +1,6 @@
 
 def Presion(FuerzaTotal,Area):
-    Presion=FuerzaTotal/Area,2
+    Presion=FuerzaTotal/Area
     return Presion
 
 def FuerzaTotal(Pabs,Area):
